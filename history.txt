@@ -1,0 +1,90 @@
+    1  git init
+    2  git - p / vars /saves /my-repos
+    3  git  -p / vars /saves /my-repos
+    4  hit --help
+    5  git --help
+    6  git  -p / vars /saves /my-repos
+    7  mkdir  -p / vars /saves /my-repos
+    8  mkdir  -p / vars /saves /my-repos
+    9  git log
+   10  git shows
+   11  git --onelog
+   12  git --onelog
+   13  clear
+   14  git oneline
+   15  clear
+   16  mkdir -p / java / javaExam / my-javapractice
+   17  git remote add origin "git@github.com:sandhyalu/sandhya-Lakshmi-Repository.git'
+   18  git remote add origin "git@github.com:sandhyalu/sandhya-Lakshmi-Repository.git'
+   19  git  remote add origin "git@github.com:sandhya/sandhya-Lakshmi-Repository.git"
+   20  git branch
+   21  git  branch  myJavaBranch
+   22  git  checkout   -b myJavaBranch
+   23  git status
+   24  git checkout myJavaBranch
+   25  touch "java.txt"
+   26  git add.
+   27  git add
+   28  git add.
+   29  git add .
+   30  git commit -m  "java.txt my commit "
+   31  git add .
+   32  git commit -m "practice/example"
+   33  rm -f./.git/index.lock
+   34  cd .git
+   35  del index.lock
+   36  cd .git
+   37  rm --force./.git/index.lock
+   38  delete the .git/index.lock
+   39  git gc
+   40  rm -Force ./.git/index.lock
+   41  cd .git
+   42  cd .git
+   43  cd .git
+   44  cd .git
+   45  taskkill /F /IM git.exe
+   46  ls
+   47  pwd
+   48  mkdir -p /var/save/my-repo
+   49  mkdir demo
+   50  ls
+   51  cd demo
+   52  git init
+   53  ls -le
+   54  ls -la
+   55  which git
+   56  pwd
+   57  cd /c/Users/saisa/Desktop/demo
+   58  which git
+   59  which git
+   60  which git > cd
+   61  cd d:
+   62  mkdir -p /var/save/my-repo
+   63  mkdir -p var/save/my-repo
+   64  ls la
+   65  ls -la
+   66  cd var 
+   67  ls
+   68  cd save/my-repo
+   69  git init
+   70  touch abc.txt
+   71  git status
+   72  git add .
+   73  git status
+   74  git commit -m "my first commit"
+   75  git config --global user.email "saisandhya.akkaraju@gmail.com"
+   76  git config --global user.name "sandhyalu"
+   77  git commit -m "my first commit"
+   78  git status
+   79  git remote add origin "git@github.com:sandhyalu/sandhya-Lakshmi-Repository.git"
+   80  git push -u origin master
+   81  ssh-keygen -t rsa
+   82  git push -u origin master
+   83  touch cde.txt
+   84  ls -la
+   85  git ls -la
+   86  git ls-files
+   87  git status
+   88  git status #It shows the details of our git local repository details
+   89  history
+   90  history > history.txt
