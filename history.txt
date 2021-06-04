@@ -88,3 +88,21 @@
    88  git status #It shows the details of our git local repository details
    89  history
    90  history > history.txt
+   91  ls -la
+   92  ls -la # it shows current folder details
+   93  cat history.txt
+   94  git status
+   95  git ls
+   96  git ls-files
+   97  git status
+   98  git add cde.txt
+   99  git status
+  100  git add history.txt
+  101  git status
+  102  git commit -m "my Secons commit"
+  103  git log
+  104  git log --oneline
+  105  git remote
+  106  git push -u origin master
+  107  git log --oneline
+  108  history > history.txt
